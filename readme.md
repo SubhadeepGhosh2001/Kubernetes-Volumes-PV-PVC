@@ -51,11 +51,4 @@ PV → PVC → Pod → Container
 
 ---
 
-## Project Structure
-
-.
-├── pv.yaml
-├── pvc.yaml
-├── pod-with-volume.yaml
-└── README.md
 
